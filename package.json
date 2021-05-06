@@ -1,5 +1,5 @@
 {
-  "name": "experi-mental",
+  "name": "@codeshambles/experi-mental",
   "version": "1.0.0",
   "description": "A silly way of testing something.",
   "main": "index.js",
