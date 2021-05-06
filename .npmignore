@@ -1,0 +1,4 @@
+.storybook
+src
+storybook-static
+__mocks__
