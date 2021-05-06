@@ -1,0 +1,14 @@
+node_modules
+dist
+
+# Jest
+coverage
+
+# VS Code
+*.code-workspace
+.DS_Store
+settings.json
+
+# Webstorm
+.idea
+storybook-static/
