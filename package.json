@@ -1,7 +1,7 @@
 {
   "name": "@codeshambles/experi-mental",
   "version": "0.0.0-development",
-  "description": "A silly way of testing something.",
+  "description": "A silly way of testing semantic-release.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
