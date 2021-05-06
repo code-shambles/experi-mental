@@ -1,19 +1,23 @@
 {
-  "name": "experi-mental",
-  "version": "1.0.0",
+  "name": "@codeshambles/experi-mental",
+  "version": "0.0.0-development",
   "description": "A silly way of testing something.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-shambles/experi-mental.git"
+    "url": "https://github.com/code-shambles/experi-mental.git"
   },
   "author": "Sebastian Eck <sebastian@eck.codes> (https://eck.codes/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/code-shambles/experi-mental/issues"
   },
-  "homepage": "https://github.com/code-shambles/experi-mental#readme"
+  "homepage": "https://github.com/code-shambles/experi-mental#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.2"
+  }
 }
