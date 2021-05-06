@@ -19,7 +19,7 @@
   "homepage": "https://github.com/code-shambles/experi-mental#readme",
   "devDependencies": {
     "semantic-release": "^17.4.2"
-  }
+  },
   "release": {
     "branches": [
       "main"
