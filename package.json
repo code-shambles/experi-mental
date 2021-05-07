@@ -1,11 +1,10 @@
 {
   "name": "@codeshambles/experi-mental-2",
   "version": "0.0.0-development",
-  "description": "A silly way of testing semantic-release.",
+  "description": "A berry way of testing semantic release and conventional changelog.",
   "main": "index.js",
   "scripts": {
     "cz": "git-cz",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
   "repository": {
