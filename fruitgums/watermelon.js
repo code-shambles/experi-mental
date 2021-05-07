@@ -1,7 +1,7 @@
 module.exports = {
-  color: { base: "red", nunace: "light" },
+  color: "red",
   flavor: "watermelon",
   shape: "wedge",
-  size: "extralarge",
+  size: "xl",
   surface: "smooth",
 }
