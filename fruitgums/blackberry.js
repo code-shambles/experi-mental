@@ -1,7 +1,7 @@
 module.exports = {
-  color: { base: "blue", nuance: "dark" },
+  color: "blue",
   flavor: "blackberry",
   shape: "oval",
-  size: "medium",
+  size: "m",
   surface: "bubbly",
 }

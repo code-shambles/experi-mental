@@ -1,7 +1,7 @@
 module.exports = {
   color: "green",
-  flavor: "kiwi",
-  shape: "slice",
-  size: "l",
+  flavor: "gooseberry",
+  shape: "oval",
+  size: "m",
   surface: "smooth",
 }
