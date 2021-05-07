@@ -4,6 +4,7 @@
   "description": "A silly way of testing semantic-release.",
   "main": "index.js",
   "scripts": {
+    "cz": "git-cz",
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/code-shambles/experi-mental#readme",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.4.2"
   },
   "release": {
@@ -27,5 +29,10 @@
   },
   "dependencies": {
     "yargs": "^17.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
