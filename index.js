@@ -1,7 +1,7 @@
 module.exports = {
-  title: "Sorry",
-  text: "This is of no value",
-  color: "brown",
-  size: "medium",
+  title: "Fruit gum",
+  color: "darkred",
   flavor: "cherry",
+  shape: "round",
+  size: "small",
 }
