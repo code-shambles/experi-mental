@@ -2,14 +2,6 @@ const yargs = require("yargs")
 const { hideBin } = require("yargs/helpers")
 const fruitGums = require("./fruitgums/index.js")
 
-module.exports = {
-  title: "Fruit gum",
-  color: "darkred",
-  flavor: "cherry",
-  shape: "round",
-  size: "small",
-}
-
 const argv = yargs(hideBin(process.argv))
   .command("find", "Finds fruit gums you like", {
     gums: [
